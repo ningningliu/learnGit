@@ -1,5 +1,5 @@
 class Test {
 	public static void main(String[] args) {
-		System.out.println("this is version one");	
+		System.out.println("this is version two");	
 	}
 }
